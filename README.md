@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vinit195
-- 👀 I’m interested in become a Web Developer
-- 🌱 I’m currently learning React,javascript and Node js
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m  a Software Engineer
 - 📫 How to reach me 8285768482 & vinit19@gmail.com
 
 <!---
